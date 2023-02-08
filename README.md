@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Jamilu Hashim Hassan](https://www.researchgate.net/profile/Jamilu-Hassan/savedlist),
 
-a Pure and applied Mathematician interested in **Computation and Application**
+A Pure and applied Mathematician interested in **Computation and Application** of some Mathematical Concepts in Data Science.
 <!--
 **jamilhashim/jamilhashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
